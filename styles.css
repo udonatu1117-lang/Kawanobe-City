@@ -16,3 +16,5 @@ footer{background:#082f4d;color:#dceaf2;padding:30px 0}.foot{display:flex;justif
 @media(max-width:460px){.appbar-inner{justify-content:space-between}.news-link{display:block;margin-top:4px}.discord-cta{width:100%;text-align:center}}
 
 .tiktok-link{background:#111;color:#fff}.tiktok-link:hover,.tiktok-link:focus{background:#333}
+
+.tiktok-link{display:inline-flex;background:#111;color:#fff;border-radius:999px;padding:5px 13px}.tiktok-link:hover,.tiktok-link:focus{background:#333;color:#fff}
